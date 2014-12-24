@@ -23,8 +23,8 @@ import javax.swing.SwingConstants;
 import javax.swing.border.Border;
 
 /*
-    We have abided by the UNCG Academic Honor Code on this assignment
-                Candice Overcash and Anthony Ratliff
+    I have abided by the UNCG Academic Honor Code on this assignment
+               			Anthony Ratliff
     This portion of the program represents the CardGame object and is used for
     creating the GUI and responsible for all game play.
     The CardGame class inherits from the JFrame class thus allowing all methods
@@ -72,7 +72,7 @@ public class CardGame extends JFrame{
     public CardGame(){
         
         // Initialize some of the variables and build the GUI
-        version = "1.0 Final";
+        version = "1.1 Final";
         computerWinTotal = 0; playerWinTotal = 0;
         loopBreak = false;
         gameLoopBreak = false;
